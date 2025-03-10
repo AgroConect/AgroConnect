@@ -61,4 +61,3 @@ git pull origin main
 Thanks to all contributors for making this project possible! 💪
 
 Muhammedfuad Bashar
-Saheed Tijani
