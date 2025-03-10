@@ -1,15 +1,16 @@
 # 🌱 AgroConnect
 
-AgroConnect is a platform that connects farmers directly with customers, eliminating middlemen. Farmers can sell produce, shop for discounted farm machinery, and access weather forecasts to optimize farming decisions. 🚜🌾  
+AgroConnect is a platform that connects farmers directly with customers, eliminating middlemen. Farmers can sell produce, shop for discounted farm machinery, and access weather forecasts to optimize farming decisions. 🚜🌾
 
-## 📌 Getting Started  
+## 📌 Getting Started
 
-To contribute to this project, follow these steps to **clone**, **pull**, and **push** changes.  
+To contribute to this project, follow these steps to **clone**, **pull**, and **push** changes.
 
 ---
 
-## **🔹 Clone the Repository**  
-To get a local copy of AgroConnect, run the following command in your terminal:  
+## **🔹 Clone the Repository**
+
+To get a local copy of AgroConnect, run the following command in your terminal:
 
 ```sh
 git clone https://github.com/AgroConect/AgroConnect.git
@@ -18,8 +19,8 @@ git clone https://github.com/AgroConect/AgroConnect.git
 cd AgroConnect
 
 # For React/Next.js frontend:
-cd frontend  
-npm install  
+cd frontend
+npm install
 
 # Pull the Latest Changes
 # Before making any changes, always pull the latest updates from the repository:
@@ -52,12 +53,13 @@ git checkout main
 git pull origin main
 
 ```
+
 🛠 Tech Stack
 
 ⚙️ API Documentation
-
 
 🤝 Contributors
 Thanks to all contributors for making this project possible! 💪
 
 Muhammedfuad Bashar
+Uthman Ipadeola
